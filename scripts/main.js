@@ -60,7 +60,7 @@ myOptions.addEventListener("change", function() {
         <h4> The Best Day. </h4> 
         <img src="images/screamingemoji.png" />  
         <br>
-        <p style="display: inline;"> Pull day = exercises that require you to PULL the weight outward. Woowww </p> 
+        <p style="display: inline;"> Pull day = exercises that require you to PULL the weight inward. Woowww </p> 
         <img src="images/wow.jpg" style="width:25px;height:25px;" /> 
         <ul> 
             <li> <a href="https://youtube.com/shorts/hnSqbBk15tw?si=B2dr57jfm7QgHmCu" target="_blank">Lat Pulldown</a> 3 sets of 8-10 reps </li> 
